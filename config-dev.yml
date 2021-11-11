@@ -1,3 +1,2 @@
-hahahahha
-this prod
-tsh
+config:
+  info: "https://github.com/18807256373/springcloud-config/edit/prod/config-dev.yml"
